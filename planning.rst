@@ -16,11 +16,11 @@ Installazione
 
 Le attività da fare sono: 
 
-  * Installazione nuovo spettrometro su ROACH1 
-  * Installazione software di controllo e postprocessing su macchina Dorian
-  * Analisi dell'interfaccia con i metadati del telescopio
-  * Installazione dello storage portatile USB per l'archivio dei dati della
-    missione
+* Installazione nuovo spettrometro su ROACH1 
+* Installazione software di controllo e postprocessing su macchina Dorian
+* Analisi dell'interfaccia con i metadati del telescopio
+* Installazione dello storage portatile USB per l'archivio dei dati della
+  missione
 
 Prima Calibrazione
 ------------------
@@ -28,17 +28,17 @@ Prima Calibrazione
 Una volta installato lo spettrometro possiamo passare alla caratterizzazione e
 al setup:
 
-  * Setup banda C con filtro del focus selector a 700MHz
-  * Antenna allo zenith e prime prove di acquisizione e settaggio dei livelli
-  * Setup banda K con filtro del focus selector a 700MHz
-  * Antenna allo zenith e prime prove di acquisizione e settaggio dei livelli
-  * Osservazione dei calibratori 3c286 e 3c295 in entrambe le bande
-  * Osservazione cielo vuoto con antenna in track
-  * Osservazione cielo vuoto con antenna in track utilizzando la marca di
-    calibrazione accesa
-  * Test dei tempi di integrazione da 5ms a 5sec.
-  * Gli stessi test andrebbero ripetuti con le configurazioni a 32, 1024 e 4096
-    canali. Prioritario comunque 4096.
+* Setup banda C con filtro del focus selector a 700MHz
+* Antenna allo zenith e prime prove di acquisizione e settaggio dei livelli
+* Setup banda K con filtro del focus selector a 700MHz
+* Antenna allo zenith e prime prove di acquisizione e settaggio dei livelli
+* Osservazione dei calibratori 3c286 e 3c295 in entrambe le bande
+* Osservazione cielo vuoto con antenna in track
+* Osservazione cielo vuoto con antenna in track utilizzando la marca di
+  calibrazione accesa
+* Test dei tempi di integrazione da 5ms a 5sec.
+* Gli stessi test andrebbero ripetuti con le configurazioni a 32, 1024 e 4096
+  canali. Prioritario comunque 4096.
 
 
 Visibilità sorgenti
@@ -64,11 +64,11 @@ EL.
 
 Per ogni RFI vorremmo: 
 
-  * osservare prima un calibratore noto
-  * osservare l'RFI a diverse risoluzioni temporali
-  * osservare l'RFI a diverse risoluzioni frequenziali
-  * compiere tutte le osservazioni in parallelo al sistema di acquisizione del
-    gruppo RFI in modo da poter validare i dati e confrontarli
+* osservare prima un calibratore noto
+* osservare l'RFI a diverse risoluzioni temporali
+* osservare l'RFI a diverse risoluzioni frequenziali
+* compiere tutte le osservazioni in parallelo al sistema di acquisizione del
+  gruppo RFI in modo da poter validare i dati e confrontarli
 
 Calibratori di riga
 -------------------
