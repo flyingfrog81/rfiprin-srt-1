@@ -17,8 +17,14 @@ Installazione
 Le attività da fare sono: 
 
 * Installazione nuovo spettrometro su ROACH1 
+
+  * Clock 800MHz
+  * Segnale splittato in ingresso interleaved
+  * Regolazione attenuatori
+
 * Installazione software di controllo e postprocessing su macchina Dorian
-* Analisi dell'interfaccia con i metadati del telescopio
+* Analisi dell'interfaccia con i metadati del telescopio tramite external client
+  e vaglio delle possibili soluzioni già implementate
 * Installazione dello storage portatile USB per l'archivio dei dati della
   missione
 
